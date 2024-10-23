@@ -11,3 +11,4 @@ spec:
     ports:
     - containerPort: 80
     # Missing resources limits and requests
+    test:test
